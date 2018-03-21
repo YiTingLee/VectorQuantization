@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\yiting\desktop\vq\vq\vq\source.cpp(101): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\yiting\desktop\vq\vq\vq\source.cpp(146): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\yiting\desktop\vq\vq\vq\source.cpp(149): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\yiting\desktop\vq\vq\vq\source.cpp(190): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\yiting\desktop\vq\vq\vq\source.cpp(244): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  VQ.vcxproj -> C:\Users\YiTing\Desktop\VQ\VQ\Debug\VQ.exe
+  VQ.vcxproj -> C:\Users\YiTing\Desktop\VQ\VQ\Debug\VQ.pdb (Full PDB)
